@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "title": "OpenComputer",
+            "short_description": "Local MCP server and JavaScript API that lets AI agents read, click and type in allowlisted apps in the background through accessibility APIs, without moving the pointer or taking focus.",
+            "categories": [
+                "development",
+                "other-development"
+            ],
+            "repo_url": "https://github.com/00cyre/opencomputer",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/00cyre/opencomputer/main/docs/assets/activity-expanded.png",
+                "https://raw.githubusercontent.com/00cyre/opencomputer/main/docs/assets/activity-approval.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
